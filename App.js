@@ -6,7 +6,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>En mobil app. Der nu er klar til brug. Hvad med nu?</Text>
-      <Text>Endnu en linje til min Apppp</Text>
+      <Text>Endnu en linje til mmmin Apppp</Text>
       <StatusBar style="auto" />
     </View>
   );
